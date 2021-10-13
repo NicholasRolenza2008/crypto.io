@@ -1,0 +1,2 @@
+# crypto.io
+belajar scryp
